@@ -1,6 +1,8 @@
 Environment: Mac OS X 10.11, 64-bit/ Chrome 50.0/ Zotero 4.0
 
-* First, of course, download the app from:
+## 1. Get the app
+
+First, of course, download the app from:
 
 https://www.zotero.org/download/
 

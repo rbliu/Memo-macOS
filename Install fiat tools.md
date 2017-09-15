@@ -63,7 +63,7 @@ You will probably have to fiddle with the makefile to get it it to link with all
 
 * Add `#include <math.h>` and `#include <float.h>` to `cat.c`
 
-* Modify the makefile:
+* Modify the `makefile`:
 ```
 PGPLOT = -I/usr/local/include -L/usr/local/lib -lcpgplot -lpgplot -lm
  
@@ -113,6 +113,7 @@ $ make
 ```
 $ cp fiatreview /usr/local/bin
 ```
+
 
 **Issue**: when using `-` to zoom out or using `n` to go to the next object, the program quits with `Abort trap: 6`.
 
